@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "macro-topic-385421",
+  "private_key_id": "ef5634dfb91a640df0971df6d7ef062298aeed73",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQ1U3+huZF/NuN\nughoYVbe7bWMDQUWTvdjkoG0wRqfWfXTDBleNCbtdSVnyA+/gRb9Z9HEVAZunn1k\nv97iSCabbqhGvgLzAyvMH2NssfqxMxMe4rKTaZ4VL05DrHee/6/Bl8TgKDpLjeiC\nHNgmRLmBk+/ySoWrgQdX1waY0JVYgBpKXM7C2Wl8cZTOpxWNda5nNylbfPdYDE4o\nURykG81r12a2X72kAXgmQIPmSSR136jvjfqYt+BQdB0dTGARfIztunKWjP14eld5\nhZOyOO1ZyEHbKxtLQqs1i6461kDtPeh163U2x2IUp6YGuQ8Em2qkojZqS4e3sTJv\nULR6mwPHAgMBAAECggEAXDXzjHHwd/Lg10HPuJdSjnkT8tVE68bOgc8NKs0hfj9w\nxlHPWcNZdPyHGb5DBeJwTlBrVW9sr6eX4sa+GdiWA4fnEeWQ09EQo78wXaxw75GH\n3dln1KOMQ/pxanxbDYAFEUx8iCX7J6VvhxRJdQxfhRHXn3q8bzA4F9dAeHWRnFOY\nFhB319w7ynuJr67NxezdZUBmY9XEopFGmkbQAxKXYdcJAHZBxmw7OeOCAL02b4//\nFtvAk84aE94yQPclgbnhG48jsvfO0g9BktHj5mzHNssPRs9vslfLgLTSTEG9jpcT\nY5i84HjR8e+4OE2YgFrc+LzK8WwzxkXHFDv83ub6AQKBgQDotitq/7nAP32eMs1X\n22Dx6Hk/2ErpcMfL6orwVpeLyQtuVRTFxLzabqUKnCyluUlrEpliEpINTGKSSWjV\nE1Pe7nCd2Mdjjoqbx4fCrbY3kYta9jBHAELSvGvPjX1TeEzc626W8j4vHxhc7rJ+\nTFUCb4eCc2WCtmfxJrTB7saJgQKBgQDlu2VNQPkqCWtRnFv75dPPG2pH0GgID82V\ncTH0zQZUz7Kpa69oyGibU92KV+auJaTivJHftPUZSvG6rU5DT41YcFgvxVTGXBvT\nz2boEZ13EHVTBHwW/13HcrL15gSImpGpjRru7H+NfNNd5o7CR0H9YXHuqvxESeb1\nXOTDFfFhRwKBgQDDZVKHgTmChsz/LEDm6Dk6ZayJQx+Da0MXoVQQAWU15hVHCwFq\nHYtFDWpewktqy20uDmvjwRwJNn39vs3bO2NM6IB+ySqCGYmgy6TefeVmOzr7oYNf\n2oRBVhxgJbl5gKVpSfWNoNE916opPfN5wLYQWX06t5IgcvBLt+hGfisOAQKBgF7G\nYbNuU5y5CBJCHFyeYzR1DfKUkuaIhnrZmQ9yKeOBUCa+6z2iOC2keqghPWSo2Q5F\nVzTgNaF6nqEx8DCquBg9ONR0Z1XyF/TZAo5I/hppqs1V80+ViH3I3vW9MC+e/Ori\n8LKS1MhtL9H0VP7nYN0Ef3lEBxCxIFwnN6UX/13vAoGBANAnYFBaj1mQ+iY3+wkx\nVpmRGWg0Zvpfj7wOw6jKcB5sm4XhjxuaEt/J9PZmojuho0i3oEtjmbyI0tXIrzng\nkekOSFuWO7SudiB8SYfRA8thvVkiORSIIimHBM3WL9BzNpfCl8fqqbvbGSEJJ2dG\n/Ym90lNcIsXObupYromYqBbx\n-----END PRIVATE KEY-----\n",
+  "client_email": "sriram-final-project@macro-topic-385421.iam.gserviceaccount.com",
+  "client_id": "102752694444606069597",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sriram-final-project%40macro-topic-385421.iam.gserviceaccount.com"
+}
